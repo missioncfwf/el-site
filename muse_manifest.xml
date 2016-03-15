@@ -1,0 +1,144 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ahSpark.bazingersamp.com" resolutions="1x" timestamp="1457970714562">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="87006718" ref="index"/>
+    <file name="index.css" crc="215298901" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
+    <file name="museutils.js" crc="531812214" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bazinger-basec.png" crc="4083769313" seo="true" ref="index"/>
+    <file name="bazinger-layer 15c.png" crc="522166302" seo="true" ref="index"/>
+    <file name="bazinger-basec2.png" crc="4243195482" seo="true" ref="index"/>
+    <file name="bazinger-signalc.png" crc="446267438" seo="true" ref="index"/>
+    <file name="bazinger-bazingerc.png" crc="226032154" seo="true" ref="index"/>
+    <file name="bazinger-selected itemc.png" crc="201667613" seo="true" ref="index"/>
+    <file name="bazinger-home features gallery video c.png" crc="350859998" seo="true" ref="index"/>
+    <file name="bazinger-iphone 5sc.png" crc="325718938" seo="true" ref="index"/>
+    <file name="bazinger-basec3.png" crc="3923179159" seo="true" ref="index"/>
+    <file name="bazinger-iconc.png" crc="435017116" seo="true" ref="index"/>
+    <file name="bazinger-simple, beautiful and amazingc.png" crc="70647712" seo="true" ref="index"/>
+    <file name="bazinger-lorem ipsum dolor sit amet, consectetur adipiscing elit. nunc ec.png" crc="3760148202" seo="true" ref="index"/>
+    <file name="bazinger-basec4.png" crc="17452779" seo="true" ref="index"/>
+    <file name="bazinger-learn morec.png" crc="4065261271" seo="true" ref="index"/>
+    <file name="bazinger-basec5.png" crc="4054996564" seo="true" ref="index"/>
+    <file name="bazinger-downloadc.png" crc="4244653819" seo="true" ref="index"/>
+    <file name="bazinger-aavailable on -c.png" crc="4278915124" seo="true" ref="index"/>
+    <file name="bazinger-containerc.png" crc="380861446" seo="true" ref="index"/>
+    <file name="bazinger-iconc2.png" crc="3841189096" seo="true" ref="index"/>
+    <file name="bazinger-containerc2.png" crc="497892261" seo="true" ref="index"/>
+    <file name="bazinger-iconc3.png" crc="4100295436" seo="true" ref="index"/>
+    <file name="bazinger-ellipse 1c.png" crc="486328128" seo="true" ref="index"/>
+    <file name="bazinger-ellipse 1 copyc.png" crc="509072850" seo="true" ref="index"/>
+    <file name="bazinger-ellipse 1 copy 2c.png" crc="509072850" seo="true" ref="index"/>
+    <file name="bazinger-basec6.png" crc="414078189" seo="true" ref="index"/>
+    <file name="bazinger-iconc4.png" crc="4151548797" seo="true" ref="index"/>
+    <file name="bazinger-basec7.png" crc="74496342" seo="true" ref="index"/>
+    <file name="bazinger-basec8.png" crc="3890469346" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 3c.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-easy to customizec.png" crc="4060927700" seo="true" ref="index"/>
+    <file name="bazinger-iconc5.png" crc="4075620459" seo="true" ref="index"/>
+    <file name="bazinger-basec9.png" crc="3964606810" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 2c.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-multipurposec.png" crc="3994770271" seo="true" ref="index"/>
+    <file name="bazinger-iconc6.png" crc="105302822" seo="true" ref="index"/>
+    <file name="bazinger-basec10.png" crc="3890469346" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copyc.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-fresh designc.png" crc="439016277" seo="true" ref="index"/>
+    <file name="bazinger-iconc7.png" crc="3791066756" seo="true" ref="index"/>
+    <file name="bazinger-basec11.png" crc="3890469346" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pulc.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-attractive layoutc.png" crc="4019903548" seo="true" ref="index"/>
+    <file name="bazinger-iconc8.png" crc="296174873" seo="true" ref="index"/>
+    <file name="bazinger-summarise what your product is all about c.png" crc="173723056" seo="true" ref="index"/>
+    <file name="bazinger-summarise the featuresc.png" crc="3949182498" seo="true" ref="index"/>
+    <file name="bazinger-linec.png" crc="93900028" seo="true" ref="index"/>
+    <file name="bazinger-mapc.png" crc="3963448683" seo="true" ref="index"/>
+    <file name="bazinger-basec12.png" crc="3839803490" seo="true" ref="index"/>
+    <file name="bazinger-copyright © 2013 - bazinger - all rights reservedc.png" crc="3844132809" seo="true" ref="index"/>
+    <file name="bazinger-terms of service - privacy policyc.png" crc="151871770" seo="true" ref="index"/>
+    <file name="bazinger-show the galleryc.png" crc="4160044805" seo="true" ref="index"/>
+    <file name="bazinger-summarise what your product is all about copyc.png" crc="173723056" seo="true" ref="index"/>
+    <file name="bazinger-basec13.png" crc="3780450932" seo="true" ref="index"/>
+    <file name="bazinger-imagec.png" crc="275303455" seo="true" ref="index"/>
+    <file name="bazinger-overlayc.png" crc="93840363" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 4c.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-screen shot -4c.png" crc="4103858354" seo="true" ref="index"/>
+    <file name="bazinger-basec14.png" crc="3780450932" seo="true" ref="index"/>
+    <file name="bazinger-imagec2.png" crc="275303455" seo="true" ref="index"/>
+    <file name="bazinger-overlayc2.png" crc="93840363" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 4c2.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-screen shot -3c.png" crc="454960940" seo="true" ref="index"/>
+    <file name="bazinger-basec15.png" crc="3780450932" seo="true" ref="index"/>
+    <file name="bazinger-imagec3.png" crc="275303455" seo="true" ref="index"/>
+    <file name="bazinger-overlayc3.png" crc="93840363" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 4c3.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-screen shot -2c.png" crc="453127924" seo="true" ref="index"/>
+    <file name="bazinger-basec16.png" crc="3780450932" seo="true" ref="index"/>
+    <file name="bazinger-imagec4.png" crc="4001355106" seo="true" ref="index"/>
+    <file name="bazinger-overlayc4.png" crc="93840363" seo="true" ref="index"/>
+    <file name="bazinger-nunc cursus libero purus ac congue arcu cursus ut sed vitae pul copy 4c4.png" crc="498089914" seo="true" ref="index"/>
+    <file name="bazinger-screen shot -1c.png" crc="363152278" seo="true" ref="index"/>
+    <file name="bazinger-c.png" crc="528420178" seo="true" ref="index"/>
+    <file name="bazinger-basec17.png" crc="3864398346" seo="true" ref="index"/>
+    <file name="bazinger-imagec5.png" crc="262249610" seo="true" ref="index"/>
+    <file name="bazinger-lorem ipsum dolor sit amet, consectetur adipiscing elit. nunc ec2.png" crc="3760148202" seo="true" ref="index"/>
+    <file name="bazinger-watch the best technology in actionc.png" crc="205633153" seo="true" ref="index"/>
+    <file name="bazinger-basec18.png" crc="4248427536" seo="true" ref="index"/>
+    <file name="bazinger-iconc9.png" crc="3860364062" seo="true" ref="index"/>
+    <file name="bazinger-basec19.png" crc="98698228" seo="true" ref="index"/>
+    <file name="bazinger-basec20.png" crc="164384485" seo="true" ref="index"/>
+    <file name="bazinger-purchasec.png" crc="284177622" seo="true" ref="index"/>
+    <file name="bazinger-bgc.png" crc="4012551883" seo="true" ref="index"/>
+    <file name="bazinger-nullam suscipit vitae etiam faucibus vivamus viverrac.png" crc="3957812863" seo="true" ref="index"/>
+    <file name="bazinger-20$c.png" crc="3800740605" seo="true" ref="index"/>
+    <file name="bazinger-basic packagec.png" crc="3850844661" seo="true" ref="index"/>
+    <file name="bazinger-choose your pricec.png" crc="141638866" seo="true" ref="index"/>
+    <file name="bazinger-summarise what your product is all about c2.png" crc="173723056" seo="true" ref="index"/>
+    <file name="bazinger-basec21.png" crc="231190921" seo="true" ref="index"/>
+    <file name="bazinger-basec22.png" crc="4270343049" seo="true" ref="index"/>
+    <file name="bazinger-purchasec2.png" crc="284177622" seo="true" ref="index"/>
+    <file name="bazinger-bgc2.png" crc="211578261" seo="true" ref="index"/>
+    <file name="bazinger-nullam suscipit vitae etiam faucibus vivamus viverra praesent pc.png" crc="418643821" seo="true" ref="index"/>
+    <file name="bazinger-25$c.png" crc="4143432599" seo="true" ref="index"/>
+    <file name="bazinger-professional packagec.png" crc="152379263" seo="true" ref="index"/>
+    <file name="bazinger-basec23.png" crc="98698228" seo="true" ref="index"/>
+    <file name="bazinger-basec24.png" crc="391347845" seo="true" ref="index"/>
+    <file name="bazinger-purchasec3.png" crc="284177622" seo="true" ref="index"/>
+    <file name="bazinger-bgc3.png" crc="3807559241" seo="true" ref="index"/>
+    <file name="bazinger-nullam suscipit vitae etiam faucibus vivamus viverra copyc.png" crc="3957812863" seo="true" ref="index"/>
+    <file name="bazinger-30$c.png" crc="4260829688" seo="true" ref="index"/>
+    <file name="bazinger-advanced packagec.png" crc="159161120" seo="true" ref="index"/>
+    <file name="bazinger-testimonialsc.png" crc="333757504" seo="true" ref="index"/>
+    <file name="bazinger-basec25.png" crc="275011534" seo="true" ref="index"/>
+    <file name="bazinger-linec2.png" crc="93900028" seo="true" ref="index"/>
+    <file name="bazinger-barc.png" crc="4182496247" seo="true" ref="index"/>
+    <file name="bazinger-barc2.png" crc="266772887" seo="true" ref="index"/>
+    <file name="bazinger-barc3.png" crc="266772887" seo="true" ref="index"/>
+    <file name="bazinger-lorem ipsum dolor sit amet, consectetur adipiscing elit. praesc.png" crc="102547501" seo="true" ref="index"/>
+    <file name="bazinger-basec26.png" crc="289711633" seo="true" ref="index"/>
+    <file name="bazinger-iconc10.png" crc="282447885" seo="true" ref="index"/>
+    <file name="bazinger-basec27.png" crc="4204848711" seo="true" ref="index"/>
+    <file name="bazinger-basec28.png" crc="17452779" seo="true" ref="index"/>
+    <file name="bazinger-download nowc.png" crc="3934560960" seo="true" ref="index"/>
+    <file name="bazinger-do you like this app-c.png" crc="257915165" seo="true" ref="index"/>
+    <file name="bazinger-basec29.png" crc="517196950" seo="true" ref="index"/>
+    <file name="bazinger-basec30.png" crc="4079678832" seo="true" ref="index"/>
+    <file name="bazinger-sendc.png" crc="3798702785" seo="true" ref="index"/>
+    <file name="bazinger-field shapec.png" crc="434162464" seo="true" ref="index"/>
+    <file name="bazinger-messagec.png" crc="4231005636" seo="true" ref="index"/>
+    <file name="bazinger-field shapec2.png" crc="4012291209" seo="true" ref="index"/>
+    <file name="bazinger-subjectc.png" crc="4064878755" seo="true" ref="index"/>
+    <file name="bazinger-field shapec3.png" crc="4012291209" seo="true" ref="index"/>
+    <file name="bazinger-your emailc.png" crc="4111783342" seo="true" ref="index"/>
+    <file name="bazinger-field shapec4.png" crc="4012291209" seo="true" ref="index"/>
+    <file name="bazinger-your namec.png" crc="3787802538" seo="true" ref="index"/>
+    <file name="bazinger-contactc.png" crc="4168171989" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="366510722" seo="true" mt="1457970326291" redirect="true"/>
+</manifest>
